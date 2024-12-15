@@ -1,0 +1,78 @@
+World spawn 64 -95
+
+250 100 village + spawn
+
+942 0 nether portal fortress
+
+Nether coords nether fortress 2 -173 -50
+
+1472 1042 lush cave
+
+-748 191 ocean monument
+-1200 200 ocean monument
+2200 1000 ocean monument
+
+
+
+
+12001200 azalea
+
+
+
+1800 1100 stronghold
+423 1071 lava pool
+1880 700 nether portal stronghold
+
+600 1100 pillager outpost
+
+50 -25 home bedrock roof portal
+
+71 257 wither farm
+774 2097 wither farm entrance overworld
+
+
+
+
+233 72
+Enchants:
+Fortune Y
+Silk touch Y
+fire prot Y
+prot Y
+fire aspect Y
+Sharpness Y
+Mending Y
+Looting Y
+
+
+Unbreaking Y
+Eff N
+Power N
+Resp N
+Sweeping Edge N
+depth strider N
+feather falling N
+
+Farms:
+
+Wither 96 243 above roof
+
+111 -32 Gold farm
+700 -200 gold farm overworld
+
+-200 200 raid farm
+
+Wood farm at spawn
+Cobble at spawn
+Stone at spawn
+Shulker at spawn
+
+
+-816 255 gaurdian farm
+
+-100 -800 slime farm
+
+Sugarcane, Bamboo
+
+Bartering
+
